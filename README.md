@@ -13,4 +13,5 @@ En este proyecto utilizamos el editor de codigo *Visual studio code* y los lengu
 </ol>
 
 ## Vista previa
-![image](https://github.com/AnitsirhcU/google-clon/assets/151887459/000a7697-75c3-4ca0-bc13-5b284b5ee717)
+![image](https://github.com/AnitsirhcU/google-clon/assets/151887459/3c45b04b-aab8-4593-b18a-8953b763c932)
+
